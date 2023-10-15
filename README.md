@@ -1,5 +1,6 @@
 # Modelamiento-Ciudad
 Este repositorio corresponde a los archivos necesarios para modelar una ciudad típica en OpenGL.
+En la carpeta "Imagenes Barrio" se podrán encontrar capturas de la visualización de la ciudad.
 
 El archivo t2p2.py es el archivo inicial en donde se corre la tarea, allí se definen las variables de inicio, la configuración de las luces, las camaras,etc. con sus transformaciones. Todo se encuentra detallado en el archivo.
 
