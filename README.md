@@ -8,7 +8,7 @@ El documento se realizó en 2 partes, sin embargo, acá se muestra la versión f
 
 ## Parte 1
 
-Se crea además el grafo de ubicación (es mi detalle creativo) el cual es un prisma triagular que se va trasladando y rotando según la posición de la camara de perspectiva. Por lo que al alternar entre la camara ortografica se puede ver en qué posición estamos ubicados (en donde está la cámara ortografica).
+Se crea el grafo de ubicación (es mi detalle creativo) el cual es un prisma triangular que se va trasladando y rotando según la posición de la camara de perspectiva. Por lo que al alternar entre la camara ortografica se puede ver en qué posición estamos ubicados (en donde está la cámara ortografica).
 
 Por otro lado, en el archivo main se encuentra la función on_key que determina las acciones de las teclas en el programa. Al pulsar SPACE todas las figuras rellenas de textura se ven en lineas y viceversa. LEFT_CONTROL muestra/oculta los ejes x, y, z. Al pulsar O se activa o desactiva la vista ortografica. Además, con las teclas W, S la cámara avanza o retrocede, con A y D la cámara rota en un angulo theta, y finalmente con las flechas UP y DOWN la camara se eleva o desciende, todo esto dentro de los limites de la escena.
 
